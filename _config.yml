@@ -1,1 +1,2 @@
-remote_theme: mfenner/jekyll-pandoc
+#remote_theme: mfenner/jekyll-pandoc
+markdown: GFM
