@@ -1,3 +1,2 @@
 #remote_theme: mfenner/jekyll-pandoc
-# markdown: GFM
-markdown: kramdown
+markdown: GFM
