@@ -1,3 +1,2 @@
-#remote_theme: mfenner/jekyll-pandoc
+remote_theme: maxwellpollack/primer
 markdown: GFM
-title:
