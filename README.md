@@ -8,7 +8,7 @@
             WEBSITE: maxis.cool            EMAIL: mail@maxis.cool            CV: maxis.cool/cv
 ```
 
-### **Indie Programmer**, *9/19 – Now*
+### **Indie Audio Programmer**, *9/19 – Now*
 *digital audio signal processing, music software*
 - [Frequency Explorer: a tunable additive synthesizer](https://maxis.cool/frex) `HTML` `CSS` `JavaScript`
 - [scalemap: a math-enabled string format for musical tunings](https://github.com/maxwellpollack/scalemap) `C` `C++` `JavaScript`
