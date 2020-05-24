@@ -9,7 +9,7 @@
 ```
 
 ### **Indie Audio Programmer**, *9/19 – Now*
-*digital audio signal processing, music software*
+*digital signal processing, music production software*
 - [Frequency Explorer: a tunable additive synthesizer](https://maxis.cool/frex) `HTML` `CSS` `JavaScript`
 - [scalemap: a math-enabled string format for musical tunings](https://github.com/maxwellpollack/scalemap) `C` `C++` `JavaScript`
 
