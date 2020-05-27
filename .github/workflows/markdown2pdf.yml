@@ -6,9 +6,11 @@ jobs:
     steps:
       - uses: octokit/request-action@v2.x
         id: mdconv
-        with:
-          route: POST /markdown
-          text: 'this is a **test** of *some* [Markdown]()'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /markdown
+          text: "this is a **test** of *some* [Markdown]()"
+          mode: "gfm"
+          context: "maxwellpollack/cv"
       - run: "echo ${{ steps.mdconv.outputs.data }}"
