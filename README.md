@@ -10,12 +10,12 @@
 
 ### **Indie Audio Programmer**, *9/19 – Now*
 *digital signal processing, music production software*
-- [Frequency Explorer: a microtonal additive synthesizer](https://maxis.cool/frex) `HTML` `CSS` `JavaScript`
+- [Frequency Explorer: a microtonal additive synthesizer web app](https://maxis.cool/frex) `HTML` `CSS` `JavaScript`
 - [scalemap: a math-enabled string format for musical tunings](https://github.com/maxwellpollack/scalemap) `C` `C++` `JavaScript`
 
 ### **Programmer** @ The Recurse Center, *7/19 – 9/19*
 *a self-directed, community-driven educational retreat for programmers*
-- [Repitch: a real-time, MIDI-controlled audio harmonizer](https://github.com/maxwellpollack/repitch) `C++` `JUCE`
+- [Repitch: a real-time, MIDI-controlled harmonizer audio plugin](https://github.com/maxwellpollack/repitch) `C++` `JUCE`
 
 ### **Research Intern** @ Numenta, *12/18 – 4/19*
 *machine learning, theoretical neuroscience*
