@@ -15,9 +15,8 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         with:
           route: POST /markdown
-          text: |
-          |
-          ${{ toJSON(steps.readREADME.outputs.content) }}
+          text: | 
+            ${{ steps.readREADME.outputs.content }}
           mode: "gfm"
           context: "maxwellpollack/cv"
       - run: "echo ${{ steps.mdconv.outputs.data }}"
