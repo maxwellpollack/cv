@@ -1,15 +1,14 @@
-on: [push]
-
-name: CreatePDFs
-
+name: markdown2pdf
+on: push
 jobs:
-  makepdfs:
+  convert:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: mkrakowitzer/actions-makepdfs@master
-      if: github.ref == 'refs/heads/master'
-    - uses: actions/upload-artifact@v1
-      with:
-        name: platform-architecture-docs
-        path: tmp
+      - uses: octokit/request-action@v2.x
+        id: mdconv
+        with:
+          route: POST /markdown
+          text: 'this is a **test** of *some* [Markdown]()'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: "echo ${{ steps.mdconv.outputs.data }}"
