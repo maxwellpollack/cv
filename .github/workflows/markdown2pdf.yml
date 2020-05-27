@@ -3,9 +3,6 @@ on: push
 jobs:
   convert:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: [2.7, 3.5, 3.6, 3.7, 3.8]
     steps:
       - uses: actions/checkout@v2
         name: Set up Python 3.8
@@ -31,7 +28,8 @@ jobs:
         run: |
           git config --local user.email "mail@maxis.cool"
           git config --local user.name "Max Pollack"
-          git commit -am "Update PDF"
+          git add README.pdf
+          git commit -m "Update PDF"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
