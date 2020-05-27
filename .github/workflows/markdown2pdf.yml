@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.email "mail@maxis.cool"
           git config --local user.name "Max Pollack"
-          git commit -m "Update PDF" -a
+          git commit -am "Update PDF"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
