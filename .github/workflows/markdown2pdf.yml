@@ -12,11 +12,12 @@ jobs:
       - uses: octokit/request-action@v2.x
         id: mdconv
         env:
-          GITHUB_TOKEN: |
-          "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         with:
           route: POST /markdown
-          text: "${{ toJSON(steps.readREADME.outputs.content) }}"
+          text: |
+          |
+          ${{ toJSON(steps.readREADME.outputs.content) }}
           mode: "gfm"
           context: "maxwellpollack/cv"
       - run: "echo ${{ steps.mdconv.outputs.data }}"
