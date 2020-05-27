@@ -2,7 +2,7 @@ name: markdown2pdf
 on: push
 jobs:
   convert:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
         name: Set up Python 3.8
@@ -18,7 +18,7 @@ jobs:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - run: grip --export
-      - run: sudo apt-get install xvfb libfontconfig wkhtmltopdf
+      - run: brew install wkhtmltopdf
       - run: wkhtmltopdf ./README.html ./README.pdf
       - name: Commit files
         run: |
