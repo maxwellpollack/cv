@@ -18,12 +18,8 @@ jobs:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - run: grip --export
-      - name: html to pdf
-        uses: fifsky/html-to-pdf-action@master
-        with:
-          htmlFile: ./README.html
-          outputFile: ./README.pdf
-          pdfOptions: '{"format": "Letter", "margin": {"top": "0.5in", "left": "0.5in", "right": "0.5in", "bottom": "0.5in"}}'
+      - run: sudo apt-get install xvfb libfontconfig wkhtmltopdf
+      - run: wkhtmltopdf README.html README.pdf
       - name: Commit files
         run: |
           git config --local user.email "mail@maxis.cool"
