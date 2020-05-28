@@ -5,7 +5,7 @@
           \ \_\ \ \_\ \_\ \_\/\_\/\_\    \ \_\   \ \_____\ \_____\ \_____\ \_\ \_\ \_____\ \_\ \_\
            \/_/  \/_/\/_/\/_/\/_/\/_/     \/_/    \/_____/\/_____/\/_____/\/_/\/_/\/_____/\/_/\/_/
 
-               WEBSITE: maxis.cool          EMAIL: mail@maxis.cool          CV: maxis.cool/cv
+                WEBSITE: maxis.cool          EMAIL: mail@maxis.cool          CV: maxis.cool/cv
 ```
 
 ### **Indie Audio Programmer**, *9/19 – Now*
