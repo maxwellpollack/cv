@@ -22,7 +22,7 @@
 - [Localization in simulated 1D + 2D environments with simple recurrent networks](https://github.com/maxwellpollack/localization_rnn) `Python` `PyTorch` `Matplotlib`
 
 ### **MS, Astronomy** @ The University of Wisconsin–Madison, *6/15 – 8/17*
-*binary star systems, stellar evolution models, observational astronomy*
+*binary star systems, computational stellar evolution models, observational astronomy*
 - ["A Curiously Young Star in an Eclipsing Binary in an Old Open Cluster"](https://doi.org/10.3847/1538-3881/aab0ff) `IRAF` `IDL` `Python`
 
 ### **BS, Physics** @ The College of New Jersey, *8/11 – 5/15*
