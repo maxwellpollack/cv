@@ -10,7 +10,7 @@
 
 ### **Indie Audio Programmer**, *9/19 – Now*
 *digital signal processing, music production software*
-- [Frequency Explorer: a microtonal additive synthesizer web app](https://maxis.cool/frex) `HTML` `CSS` `JavaScript`
+- [Frequency Explorer: a microtonal additive synthesizer web app](https://maxis.cool/frex) `HTML` `CSS` `JavaScript` `Web Audio API`
 - [scalemap: a math-enabled string format for musical tunings](https://github.com/maxwellpollack/scalemap) `C` `C++` `JavaScript`
 
 ### **Programmer** @ The Recurse Center, *7/19 – 9/19*
