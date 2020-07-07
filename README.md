@@ -20,7 +20,7 @@ mail@ ────────────────────────�
 
 ### **Research Intern** @ Numenta, *12/18 – 4/19*
 *machine learning, theoretical neuroscience*
-- [Localization in simulated 1D + 2D environments with simple recurrent networks](https://github.com/maxwellpollack/localization_rnn) `Python` `PyTorch` `Matplotlib`
+- [Localization in simulated 1D + 2D environments with simple recurrent networks](https://github.com/numenta/htmresearch/tree/master/projects/localization_rnn) `Python` `PyTorch` `Matplotlib`
 
 ### **MS, Astronomy** @ The University of Wisconsin–Madison, *6/15 – 8/17*
 *binary star systems, computational stellar evolution models, observational astronomy*
