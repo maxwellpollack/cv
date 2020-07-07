@@ -10,7 +10,7 @@ mail@ ────────────────────────�
 
 ### **Indie Audio Programmer**, *9/19 – Now*
 *digital signal processing, music production software*
-- [juce-plugin-ci: a cross-platform Continuous Integration workflow for JUCE audio plugins](https://github.com/maxwellpollack/juce-plugin-ci) `CMake` `GitHub Actions`
+- [juce-plugin-ci: cross-platform Continuous Integration for JUCE audio plugins](https://github.com/maxwellpollack/juce-plugin-ci) `CMake` `GitHub Actions`
 - [Frequency Explorer: a microtonal additive synthesizer web app](https://maxis.cool/frex) `HTML` `CSS` `JavaScript` `Web Audio API`
 - [scalemap: a math-enabled string format for musical tunings](https://github.com/maxwellpollack/scalemap) `C` `C++` `JavaScript`
 
