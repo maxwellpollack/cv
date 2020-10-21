@@ -19,7 +19,7 @@
 - [Repitch: a real-time, MIDI-controlled harmonizer audio plugin](https://github.com/maxwellpollack/repitch) `C++` `JUCE`
 
 ### **Research Intern** @ Numenta, *12/18 – 4/19*
-*machine learning, theoretical neuroscience*
+*neuroscience-inspired machine learning research*
 - [Localization in simulated 1D + 2D environments with simple recurrent networks](https://github.com/numenta/htmresearch/tree/master/projects/localization_rnn) `Python` `PyTorch` `Matplotlib`
 
 ### **MS, Astronomy** @ The University of Wisconsin–Madison, *6/15 – 8/17*
