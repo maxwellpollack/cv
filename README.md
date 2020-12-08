@@ -8,7 +8,10 @@
               EMAIL: mail@maxis.cool           WEBSITE: maxis.cool           THIS: maxis.cool/cv
 ```
 
-### **Freelance Audio Software Developer**, *9/19 – Now*
+### **Software Developer @ CodeGarden / Node Audio**, *9/20 – Now*
+*C++, JUCE audio plugin development*
+
+### **Indie Audio Software Developer**, *9/19 – 9/20*
 *digital signal processing, music production software*
 - [juce-plugin-ci: cross-platform Continuous Integration for JUCE audio plugins](https://github.com/maxwellpollack/juce-plugin-ci) `CMake` `GitHub Actions`
 - [Frequency Explorer: a microtonal additive synthesizer web app](https://maxis.cool/frex) `HTML` `CSS` `JavaScript` `Web Audio API`
