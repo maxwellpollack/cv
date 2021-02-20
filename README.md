@@ -27,6 +27,7 @@
 
 ### **MS, Astronomy** @ The University of Wisconsin–Madison, *6/15 – 8/17*
 *binary star systems, computational stellar evolution models, observational astronomy*
+- ["Stellar Radial Velocities in the Old Open Cluster M67 (NGC 2682). II. The Spectroscopic Binary Population"](https://arxiv.org/abs/2101.07883) `IRAF` `IDL` `Python`
 - ["A Curiously Young Star in an Eclipsing Binary in an Old Open Cluster"](https://doi.org/10.3847/1538-3881/aab0ff) `IRAF` `IDL` `Python`
 
 ### **BS, Physics** @ The College of New Jersey, *8/11 – 5/15*
