@@ -10,7 +10,7 @@
 
 ### **Freelance Audio Software Developer @ CodeGarden**, *9/20 – Now*
 *digital signal processing, audio plugin development*
-- Working 1-on-1 with clients to develop projects using C++ and the JUCE framework across Mac, Windows, Linux, and iOS.
+- Working with a remote team to develop client projects using C++ and the JUCE framework for Mac, Windows, Linux, and iOS
 
 ### **Indie Audio Software Developer**, *9/19 – 9/20*
 *digital signal processing, music production software*
