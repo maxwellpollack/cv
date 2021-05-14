@@ -8,8 +8,9 @@
               EMAIL: mail@maxis.cool           WEBSITE: maxis.cool           THIS: maxis.cool/cv
 ```
 
-### **Software Developer @ CodeGarden / Node Audio**, *9/20 – Now*
-*C++, JUCE audio plugin development*
+### **Freelance Audio Software Developer @ CodeGarden**, *9/20 – Now*
+*digital signal processing, audio plugin development*
+- Developed client projects from the ground up using C++ and the JUCE framework across Mac, Windows, Linux, and iOS.
 
 ### **Indie Audio Software Developer**, *9/19 – 9/20*
 *digital signal processing, music production software*
